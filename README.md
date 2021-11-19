@@ -3,7 +3,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M03Q2JN)
 
 <p align="center">
-  <img src="https://github.com/dievus/Oh365UserFinder/blob/main/images/Oh365UserFinder1.png" />
+  <img src="https://github.com/dievus/Firefox-Dumper/blob/main/images/firefox_dumper.png" />
 </p>
 
 Firefox Dumper identifies the current user's Firefox profile directory and exfiltrates the credential files to the attacker's FTP server.  
